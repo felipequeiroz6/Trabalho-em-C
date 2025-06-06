@@ -8,7 +8,7 @@ float consultarSaldo(float saldo) {
 }
 
 int main() {
-    float saldo = 198.74; // Saldo inicial da conta
+    float saldo = 100.00; // Saldo inicial da conta
     int opcao;
 
     printf("Bem-vindo ao sistema bancário!\n");
