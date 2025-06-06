@@ -14,7 +14,7 @@ int realizar_saque(double *saldo_ptr, double valor_saque) {
 
 int main() {
     setlocale(LC_ALL,"Portuguese_Brazil");
-    double saldo_conta = 1500.75; // Saldo inicial de exemplo
+    double saldo_conta = 100.00; // Saldo inicial de exemplo
     double valor_a_sacar;
     int resultado_saque;
     
