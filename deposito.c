@@ -4,7 +4,7 @@
 
 // Implementacao da funcao de deposito
 void realizarDeposito(float *saldo) {
-    float valorDeposito;
+    float valorDeposito; //função que inicia a variavel de dposito e faz sua função
 
     printf("\n--- Deposito ---\n");
     printf("Digite o valor a ser depositado: R$ ");
